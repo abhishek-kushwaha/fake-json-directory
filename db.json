@@ -15,5 +15,15 @@
             "name": "Tinni",
             "age": 21
         }
+    ],
+    "posts": [
+        {
+            "id": 1,
+            "title": "My first post"
+        },
+        {
+            "id": 2,
+            "title": "Another post"
+        }
     ]
 }
